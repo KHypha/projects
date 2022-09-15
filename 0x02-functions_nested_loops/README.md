@@ -1,9 +1,9 @@
 Project 0x02 teaches the concepts of functions and nested loops.
-The function prototype for each file is in the holberton.h header file.
+The function prototype for each file is in the main.h header file.
 Also, the main.c files were used to test each program and ensure the correct output.
 Each file in this project is as follows:
 
-#0, called _putchar is writing a program that prints Holberton, followed by a new line. This program shoud return 0.
+#0, called _putchar is writing a program that prints _putchar, followed by a new line. This program shoud return 0.
 
 #1 is writing a function that prints the alphabet, in lowercase, followed by a new line. And _putchar can only be used twice in the code
 
